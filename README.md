@@ -1,39 +1,49 @@
-## Hi there 👋 
 
-## 🚀 About Me
-I'm an SAP Development Consultant with a knack for crafting and implementing cutting-edge solutions in the SAP ecosystem. With a robust skill set that spans across classical ABAP, ABAP OO, Fiori, SAPUI5, SAP HANA, SAP BTP, and SAP CRM 7.0, I've effectively lent my expertise to SAP development and implementation projects, ensuring streamlined operations and enhanced business functionalities.
+<h1 align="center">Hi there👋 I am Fredrick!</h1>
 
-## SAP world
-🔍 I'm well-versed in the following development models and techniques:
-- The ABAP Programming Model for SAP Fiori (BOPF)
-- The ABAP RESTful Programming Model (RAP)
-- SAP Cloud Application Programming Model (CAP)
+I am self-taught passionate SAP developer from Kenya. 
 
- 🔧 I'm well-versed in the following development tools:
-- Visual Studio Code
-- SAP Fiori Tools
-- ABAP Development Tools for Eclipse
-- SAP Business Application Studio
+### About me
 
-🛠 **Skills and Tools:**
-- **SAP Tools & Technologies:** ECC, SAP CRM 7.0, S/4HANA, Fiori Elements, SAPUI5, SAP HANA, SAP BTP
-- **Programming Languages:** ABAP, SQLScript, Python, JavaScript, MATLAB
-- **Other Technologies and Runtimes:** Node.js, Selenium, Power automate 
+🔍 **SAP development models and techniques:**
+   - The ABAP Programming Model for SAP Fiori (BOPF)
+   - The ABAP RESTful Programming Model (RAP)
+   - SAP Cloud Application Programming Model (CAP)
 
-## 🤖 Exploring the World of Automation
-In the realm of automation, my adventures have taken me through the intricate realms of web browser automation and web scraping, leveraging Python and Selenium to create solutions that streamline data retrieval and processing workflows. 
+🔧 **SAP development tools:**
+   - Visual Studio Code
+   - SAP Fiori Tools
+   - ABAP Development Tools for Eclipse
+   - SAP Business Application Studio
 
-## 🧠 Diving Deep into Intelligent Systems
-My exploration in the realm of intelligent systems, particularly within machine learning and artificial neural networks, unfolds predominantly in the academic and research arena. Utilizing MATLAB, I've engaged in modeling and simulating neural networks, not for commercial projects, but with a fervent aim to propel the discipline forward. My contributions extend towards:
-- 📚 **Academic Research:** Investigating theoretical and application-oriented concepts that enhance understanding and feasibility of intelligent systems.
-- 📘 **Publishing:** Authoring and co-authoring publications that explore, validate, and introduce innovative approaches and findings in the domain.
-- 🚀 **Advancing the Discipline:** Actively participating in discussions, forums, and conferences that aim to further the depth and breadth of intelligent systems and neural networks.
+🛠 **SAP Technologies:**
+   - SAP CRM 7.0
+   - SAP Fiori 
+   - SAP UI5
+   - SAP HANA
+   - SAP BTP
+     
+⛏️ **Others:**
+   - Web scraping and browser automation
+   - Machine Learning
+   - Artificial Neural Networks
+   - Power automate
+     
 
-Engaging in these activities, I ardently believe in sharing knowledge, fostering innovation, and collaborating to navigate the captivating yet complex world of intelligent computing.
-
+**<img align="left" alt="sapabap" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/42ff37aa-f0a9-46f1-830e-199c3fec79a8"/>
+<img align="left" alt="javascript" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/3bffbab0-346c-4fd5-981b-3368eb84ce04"/>
+<img align="left" alt="nodejs" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/c9d461fd-8857-4d02-a518-a963535c8403"/>
+<img align="left" alt="python" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/e00c7d26-b250-4f18-a8d9-d11c7b8cf452"/>
+<img align="left" alt="r" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/5cdd6502-ec35-4855-9540-1c0a0da8ef7b"/>
+<img align="left" alt="matlab" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/ce9fadfd-10f1-4ef0-a1ab-961441e04c00"/>.**
 
 ## 🌱 Continuous Learning
-The tech world is ever-evolving, and so am I. Continual learning and adaptation are key in steering through the dynamic landscapes of technology, ensuring that solutions not only meet the demands of the present but are also scalable and adaptable to the needs of the future.
+The tech world is ever-evolving, and so am I. Continual learning and adaptation are key in steering through the dynamic landscapes of technology.
+
+## 📈 Stats
+![Fredrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmumali&show_icons=true&theme=blueberry)
+![Fredrick's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fmumali&theme=blueberry)
+![Fredrick's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fmumali&theme=blueberry)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/fredrickmumali/)
