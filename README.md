@@ -1,5 +1,4 @@
-### Hi there 👋
-# Hello, World! 👋 I'm Mumali
+## Hi there 👋 I'm Mumali
 
 ## 🚀 About Me
 I'm an SAP Development Consultant with a knack for crafting and implementing cutting-edge solutions in the SAP ecosystem. With a robust skill set that spans across classical ABAP, ABAP OO, Fiori, SAPUI5, SAP HANA, SAP BTP, and SAP CRM 7.0, I've effectively lent my expertise to SAP development and implementation projects, ensuring streamlined operations and enhanced business functionalities.
