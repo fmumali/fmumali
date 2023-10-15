@@ -9,7 +9,7 @@ I'm an SAP Development Consultant with a knack for crafting and implementing cut
 - The ABAP RESTful Programming Model (RAP)
 - SAP Cloud Application Programming Model (CAP)
 
- 🔍 I'm well-versed in the following development tools:
+ 🛠 I'm well-versed in the following development tools:
 - Visual Studio Code
 - SAP Fiori Tools
 - ABAP Development Tools for Eclipse
