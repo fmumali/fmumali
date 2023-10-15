@@ -14,8 +14,6 @@ I'm an SAP Development Consultant with a knack for crafting and implementing cut
 - ABAP Development Tools for Eclipse
 - SAP Business Application Studio
 
-💡 I harbor a keen interest in intelligent systems and am continually exploring avenues where machine learning and artificial neural networks can enhance existing systems and create new opportunities for innovation.
-
 🛠 **Skills and Tools:**
 - **SAP Tools & Technologies:** ECC, SAP CRM 7.0, S/4HANA, Fiori Elements, SAPUI5, SAP HANA, SAP BTP
 - **Programming Languages:** ABAP, SQLScript, Python, JavaScript, MATLAB
