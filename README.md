@@ -3,6 +3,7 @@
 ## 🚀 About Me
 I'm an SAP Development Consultant with a knack for crafting and implementing cutting-edge solutions in the SAP ecosystem. With a robust skill set that spans across classical ABAP, ABAP OO, Fiori, SAPUI5, SAP HANA, SAP BTP, and SAP CRM 7.0, I've effectively lent my expertise to SAP development and implementation projects, ensuring streamlined operations and enhanced business functionalities.
 
+## :sap: SAP world
 🔍 I'm well-versed in the following development models and techniques:
 - The ABAP Programming Model for SAP Fiori (BOPF)
 - The ABAP RESTful Programming Model (RAP)
