@@ -38,8 +38,8 @@ I am a self-taught passionate SAP developer.
 <img align="left" alt="python" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/e00c7d26-b250-4f18-a8d9-d11c7b8cf452"/>
 <img align="left" alt="r" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/5cdd6502-ec35-4855-9540-1c0a0da8ef7b"/>
 <img align="left" alt="r" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/9046a1b5-8afc-4270-8fe4-c4c1f42a7f31"/>
-<img align="left" alt="matlab" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/ce9fadfd-10f1-4ef0-a1ab-961441e04c00"/>
-...
+<img align="left" alt="matlab" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/ce9fadfd-10f1-4ef0-a1ab-961441e04c00"/>.
+
 
 ### Stats
 
