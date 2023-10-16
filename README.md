@@ -9,7 +9,7 @@
    - Classical ABAP, ABAP OO, & SAP UI5.
 <br>
      
-🌱 Besides the SAP, I have basic skills and am continously learning:
+🌱 Besides the SAP world, I have basic skills and am continously learning:
    - Web scraping and browser automation using Selenium and Python.
    - Machine Learning algorithms using MATLAB and Python.
    - Data science tools and technologies using Python and R.
