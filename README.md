@@ -39,7 +39,7 @@
 </td>
 <td>
    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmumali&hide_border=true&theme=blueberry&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmumali&hide_border=true&theme=blueberry&layout=compact&langs_count=8)
 </td>
 </tr>
 </table>
