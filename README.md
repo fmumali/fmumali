@@ -6,14 +6,16 @@
    - The ABAP Programming Model for SAP Fiori (BOPF).
    - The ABAP RESTful Programming Model (RAP).
    - SAP Cloud Application Programming Model (CAP).
-   - Classical ABAP, ABAP OO, & SAP UI5.
+   - SAP UI5 development
+   - Classical ABAP and ABAP object-oriented programming 
+   - SAP CRM One order framework, Genil/Bol architecture, Webclient UI, and rapid application development.
 <br>
      
 🌱 Besides the SAP world, I have basic skills and am continously learning:
    - Wordpress custom development using HTML, CSS, JavaScript, and PHP.
-   - Web scraping and browser automation using Selenium and Python.
-   - Machine Learning algorithms using MATLAB and Python.
-   - Data science tools and technologies using Python and R.
+   - Web scraping and browser automation in Selenium and Python.
+   - Machine Learning algorithms in MATLAB and Python.
+   - Data science tools and technologies in Python and R.
 
 <br>
    <img align="left" alt="sapfiori" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/69cc3a47-bdcf-4e6c-82fa-99c3b0097064"/>
