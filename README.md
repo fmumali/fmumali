@@ -50,4 +50,4 @@
 
 <br>📫 Let us connect 🤝
 - [LinkedIn](https://www.linkedin.com/in/fredrickmumali/)
-- [SAP Community](https://people.sap.com/mumali)
+- [SAP Community](https://community.sap.com/t5/user/viewprofilepage/user-id/2819)
