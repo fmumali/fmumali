@@ -3,19 +3,22 @@
  <h4 align="left"> I am Fredrick, a passionate SAP developer and tech enthusiast.</h4> <br>
 
 🎯I am well versed in SAP development models and techniques including:
-   - The ABAP Programming Model for SAP Fiori (BOPF).
+   - Classical ABAP and ABAP object-oriented programming.
+   - Interfaces, Web services, ABAP channels, BAPIs, Web Dynpro, and Adobe Forms
+   - SAP Gateway and Odata services
+   - AMDP procedures and functions
+   - SQLscript for SAP HANA.
+   - ABAO SQL and CDS views
    - The ABAP RESTful Programming Model (RAP).
    - SAP Cloud Application Programming Model (CAP).
-   - SAP UI5 development
-   - Classical ABAP and ABAP object-oriented programming 
+   - SAP Fiori Elements and SAP UI5 development
    - SAP CRM One order framework, Genil/Bol architecture, Webclient UI, and rapid application development.
 <br>
      
 🌱 Besides the SAP world, I have basic skills and am continously learning:
-   - Wordpress custom development using HTML, CSS, JavaScript, and PHP.
-   - Web scraping and browser automation in Selenium and Python.
+   - HTML5, CSS3, JavaScript, Typescript, jQuery, React, Node.js, PHP and Python
    - Machine Learning algorithms in MATLAB and Python.
-   - Data science tools and technologies in Python and R.
+   - Data science tools and techniques in Python and R.
 
 <br>
    <img align="left" alt="sapfiori" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/69cc3a47-bdcf-4e6c-82fa-99c3b0097064"/>
