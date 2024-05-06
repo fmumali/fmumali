@@ -8,7 +8,7 @@
    - SAP Gateway and Odata services
    - AMDP procedures and functions
    - SQLscript for SAP HANA.
-   - ABAO SQL and CDS views
+   - ABAP SQL and CDS views
    - The ABAP RESTful Programming Model (RAP).
    - SAP Cloud Application Programming Model (CAP).
    - SAP Fiori Elements and SAP UI5 development
