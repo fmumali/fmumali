@@ -12,7 +12,7 @@
    - The ABAP RESTful Programming Model (RAP).
    - SAP Cloud Application Programming Model (CAP).
    - SAP Fiori Elements and SAP UI5 development
-   - SAP CRM One order framework, Genil/Bol architecture, Webclient UI, and rapid application development.
+   - SAP CRM One order framework, Genil/Bol architecture & Webclient UI.
 <br>
      
 🌱 Besides the SAP world, I have basic skills and am continously learning:
