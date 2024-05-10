@@ -14,11 +14,7 @@
    - SAP Fiori Elements and SAP UI5 development
    - SAP CRM One order framework, Genil/Bol architecture & Webclient UI.
 <br>
-
-![react](https://github.com/fmumali/fmumali/assets/62213009/752f4171-b0d4-43d9-839c-5cef7baf5d13)
-![php](https://github.com/fmumali/fmumali/assets/62213009/5a759247-5b19-4e7b-a7fe-55cbfd742b89)
-
-     
+    
 🌱 Besides the SAP world, I have basic skills and am continously learning:
    - HTML5, CSS3, JavaScript, Typescript, jQuery, React, Node.js, PHP and Python
    - Machine Learning algorithms in MATLAB and Python.
@@ -30,8 +26,8 @@
    <img align="left" alt="sapui5" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/9a6c0079-1411-4f67-89eb-5ab51a2c528c"/>
    <img align="left" alt="javascript" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/3bffbab0-346c-4fd5-981b-3368eb84ce04"/>
    <img align="left" alt="nodejs" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/c9d461fd-8857-4d02-a518-a963535c8403"/> 
-   <img align="left" alt="react" width="40px" src="https://github.com/fmumali/fmumali/assets/62213009/ce9fadfd-10f1-4ef0-a1ab-961441e04c00"/>
-   <img align="left" alt="php" width="40px" src="https://github.com/fmumali/fmumali/assets/62213009/ce9fadfd-10f1-4ef0-a1ab-961441e04c00"/>
+   <img align="left" alt="react" width="40px" src="https://github.com/fmumali/fmumali/assets/62213009/752f4171-b0d4-43d9-839c-5cef7baf5d13"/>
+   <img align="left" alt="php" width="40px" src="https://github.com/fmumali/fmumali/assets/62213009/5a759247-5b19-4e7b-a7fe-55cbfd742b89"/>
    <img align="left" alt="python" width="35px" src="https://github.com/fmumali/fmumali/assets/62213009/e00c7d26-b250-4f18-a8d9-d11c7b8cf452"/>
    <img align="left" alt="r" width="40px" src="https://github.com/fmumali/fmumali/assets/62213009/282f7f09-cb1c-4c15-b19b-f7452a41b20c"/>
    <img align="left" alt="matlab" width="40px" src="https://github.com/fmumali/fmumali/assets/62213009/ce9fadfd-10f1-4ef0-a1ab-961441e04c00"/>
