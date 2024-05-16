@@ -4,15 +4,16 @@
 
 🎯I am well versed in SAP development models and techniques including:
    - Classical ABAP and ABAP object-oriented programming.
-   - Interfaces, Web services, ABAP channels, BAPIs, Web Dynpro, and Adobe Forms
-   - SAP Gateway and Odata services
-   - AMDP procedures and functions
+   - Interfaces, Web services, ABAP channels, BAPIs, Web Dynpro, and Forms.
+   - SAP Gateway and Odata services.
+   - AMDP procedures.
    - SQLscript for SAP HANA.
-   - ABAP SQL and CDS views
+   - ABAP SQL and CDS views.
+   - Upgrade post-processing activities(SPAU, SPAU_ENH, Clone adjustments, and ATC).
    - The ABAP RESTful Programming Model (RAP).
    - SAP Cloud Application Programming Model (CAP).
-   - SAP Fiori Elements and SAP UI5 development
-   - SAP CRM One order framework, Genil/Bol architecture & Webclient UI.
+   - SAP Fiori Elements and SAP UI5 development.
+   - SAP CRM One order framework, Genil/Bol architecture & WebClient UI.
 <br>
     
 🌱 Besides the SAP world, I have basic skills and am continously learning:
