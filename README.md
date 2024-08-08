@@ -2,10 +2,12 @@
 <h3 align="left">Hi there👋 </h3> <br>
  <h4 align="left"> I am Fredrick, a passionate SAP developer and tech enthusiast.</h4> <br>
 
-🎯I am well versed in SAP development models and techniques including:
+🎯I am well versed in SAP development models and techniques, including:
    - Classical ABAP and ABAP object-oriented programming.
-   - Interfaces, Web services, ABAP channels, BAPIs, Web Dynpro, and Forms.
+   - Interfaces, Web services, ABAP channels, and RFC/BAPIs.
+   - Web Dynpro and Forms(Adobe & Smartforms).
    - SAP Gateway and Odata services.
+   - IDoc and EDI
    - AMDP procedures.
    - SQLscript for SAP HANA.
    - ABAP SQL and CDS views.
@@ -14,9 +16,10 @@
    - SAP Cloud Application Programming Model (CAP).
    - SAP Fiori Elements and SAP UI5 development.
    - SAP CRM One order framework, Genil/Bol architecture & WebClient UI.
+   - SAP Application Interface Framework (SAP AIF).
 <br>
     
-🌱 Besides the SAP world, I have basic skills and am continously learning:
+🌱 Besides the SAP world, I have basic skills and am continuously learning:
    - HTML5, CSS3, JavaScript, Typescript, jQuery, React, Node.js, PHP and Python
    - Machine Learning algorithms in MATLAB and Python.
    - Data science tools and techniques in Python and R.
