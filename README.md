@@ -4,10 +4,9 @@
 
 🎯I am well versed in SAP development models and techniques, including:
    - Classical ABAP and ABAP object-oriented programming.
-   - Interfaces, Web services, ABAP channels, and RFC/BAPIs.
+   - Interfaces, Web services, ABAP channels, IDOCs, ALE, and RFC/BAPIs.
    - Web Dynpro and Forms(Adobe & Smartforms).
    - SAP Gateway and Odata services.
-   - IDocs,
    - AMDP procedures.
    - SQLscript for SAP HANA.
    - ABAP SQL and CDS views.
