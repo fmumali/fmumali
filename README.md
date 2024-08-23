@@ -7,7 +7,7 @@
    - Interfaces, Web services, ABAP channels, and RFC/BAPIs.
    - Web Dynpro and Forms(Adobe & Smartforms).
    - SAP Gateway and Odata services.
-   - IDoc and EDI
+   - IDocs,
    - AMDP procedures.
    - SQLscript for SAP HANA.
    - ABAP SQL and CDS views.
