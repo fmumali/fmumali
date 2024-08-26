@@ -16,7 +16,7 @@
     
 🌱 Besides the SAP world, I have basic skills and am continuously learning:
    - HTML5, CSS3, JavaScript, Typescript, jQuery, React, Node.js, PHP and Python
-   - Wordpress development
+   - WordPress development
    - Machine Learning algorithms in MATLAB and Python.
    - Data science tools and techniques in Python and R.
 
