@@ -1,5 +1,5 @@
 <h3 align="left">Hi there👋 </h3> <br>
- <h4 align="left"> I am Fredrick,  passionate SAP developer and tech enthusiast.</h4> <br>
+ <h4 align="left"> I am Fredrick, a passionate SAP developer and tech enthusiast.</h4> <br>
 
 🎯I am well versed in SAP development models and techniques, including:
    - Classical ABAP and ABAP object-oriented programming.
