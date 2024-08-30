@@ -2,16 +2,16 @@
  <h4 align="left"> I am Fredrick, a passionate SAP developer and tech enthusiast.</h4> <br>
 
 🎯I am well versed in SAP development models and techniques, including:
-   - Classical ABAP and ABAP object-oriented programming.
-   - Interfaces, Web services, ABAP channels, and RFC/BAPIs.
-   - Web Dynpro and Forms(Adobe & Smartforms).
-   - SAP Gateway and OData services.
-   - ABAP SQL, CDS views, AMDP procedures, and SQLScript for SAP HANA.
-   - The ABAP RESTful Programming Model (RAP).
-   - SAP Cloud Application Programming Model (CAP).
-   - SAP Fiori and UI5 development.
-   - SAP CRM One order framework, Genil/Bol architecture & WebClient UI.
-   - SAP Application Interface Framework (SAP AIF).
+   - Classical ABAP and ABAP object-oriented programming
+   - Interfaces, Web services, ABAP channels, and RFC/BAPIs
+   - Web Dynpro and Forms(Adobe & Smartforms)
+   - SAP Gateway and OData services
+   - ABAP SQL, CDS views, AMDP procedures, and SQLScript for SAP HANA
+   - The ABAP RESTful Programming Model (RAP)
+   - SAP Cloud Application Programming Model (CAP)
+   - SAP Fiori and UI5 development
+   - SAP CRM One order framework, Genil/Bol architecture & WebClient UI
+   - SAP Application Interface Framework (SAP AIF)
 <br>
     
 🌱 Besides the SAP world, I have basic skills and am continuously learning:
