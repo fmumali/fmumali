@@ -6,7 +6,7 @@
    - Interfaces, Web services, ABAP channels, and RFC/BAPIs.
    - Web Dynpro and Forms(Adobe & Smartforms).
    - SAP Gateway and OData services.
-   - ABAP SQL, CDS views, AMDP procedures, and SQLscript for SAP HANA.
+   - ABAP SQL, CDS views, AMDP procedures, and SQLScript for SAP HANA.
    - The ABAP RESTful Programming Model (RAP).
    - SAP Cloud Application Programming Model (CAP).
    - SAP Fiori Elements and SAP UI5 development.
