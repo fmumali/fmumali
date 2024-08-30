@@ -9,7 +9,7 @@
    - ABAP SQL, CDS views, AMDP procedures, and SQLScript for SAP HANA.
    - The ABAP RESTful Programming Model (RAP).
    - SAP Cloud Application Programming Model (CAP).
-   - SAP Fiori Elements and SAP UI5 development.
+   - SAP Fiori and UI5 development.
    - SAP CRM One order framework, Genil/Bol architecture & WebClient UI.
    - SAP Application Interface Framework (SAP AIF).
 <br>
