@@ -43,11 +43,11 @@
 </td>
 <td>
    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fmumali&hide_border=true&&hide=stars&show_icons=true&show=prs_merged_percentage&theme=blueberry)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fmumali&theme=blueberry&hide_border=true&mode=weekly)
 </td>
 <td>
 
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fmumali&theme=blueberry&hide_border=true&mode=weekly)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fmumali&hide_border=true&&hide=stars&show_icons=true&show=prs_merged_percentage&theme=blueberry)
 </td>
 </tr>
 </table>
