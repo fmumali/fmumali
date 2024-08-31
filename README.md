@@ -38,16 +38,16 @@
 <table>
 <tr>
 <td>
-   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fmumali&theme=blueberry&hide_border=true&mode=weekly)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmumali&hide_border=true&theme=blueberry&layout=compact&langs_count=8)
 </td>
 <td>
    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fmumali&hide_border=true&&hide=stars&show_icons=true&show=prs_merged_percentage&theme=blueberry)
 </td>
 <td>
-   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmumali&hide_border=true&theme=blueberry&layout=compact&langs_count=8)
+
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fmumali&theme=blueberry&hide_border=true&mode=weekly)
 </td>
 </tr>
 </table>
