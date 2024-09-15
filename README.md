@@ -3,20 +3,20 @@
 
 🎯I am well versed in SAP development models and techniques, including:
    - Classical ABAP and ABAP object-oriented programming
+   - RICEFW(reports, interfaces, conversions, enhancements, forms, and workflows)
    - Interfaces, Web services, ABAP channels, and RFC/BAPIs
-   - Web Dynpro and Forms(Adobe & Smartforms)
-   - SAP Gateway and OData services
+   - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS View/Analytical)
    - ABAP SQL, CDS views, AMDP procedures, and SQLScript for SAP HANA
-   - The ABAP RESTful Programming Model (RAP)
-   - SAP Cloud Application Programming Model (CAP)
+   - ABAP RESTful Programming Model (RAP)
+   - SAP Cloud Application Programming Model (CAP) - Node.js
    - SAP Fiori and UI5 development
    - SAP CRM One order framework, Genil/Bol architecture & WebClient UI
    - SAP Application Interface Framework (SAP AIF)
 <br>
     
-🌱 Besides the SAP world, I have basic skills and am continuously learning:
-   - HTML5, CSS3, JavaScript, Typescript, jQuery, React, Node.js, PHP and Python
-   - WordPress development
+🌱 Besides the SAP world, I have basic skills in and am continuously learning the following:
+   - HTML5, CSS3, JavaScript, Typescript, jQuery, React, Node.js, PHP, and Python
+   - WordPress development usinf custom CSS, JavaScript, and PHP
    - Machine Learning algorithms in MATLAB and Python.
    - Data science tools and techniques in Python and R.
 
