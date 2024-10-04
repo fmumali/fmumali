@@ -7,7 +7,7 @@
    - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS View/Analytical)
    - ABAP SQL, CDS views, AMDP procedures, and SQLScript for SAP HANA
    - ABAP RESTful Programming Model (RAP)
-   - SAP Cloud Application Programming Model (CAP) - Node.js
+   - SAP Cloud Application Programming Model /CAP - Node.js
    - SAP Fiori and UI5 development
    - SAP CRM One order framework, Genil/Bol architecture & WebClient UI
    - IDoc, BAPI, RFC, REST, and SOAP
