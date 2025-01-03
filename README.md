@@ -2,7 +2,7 @@
  <h4 align="left"> I am Fredrick, a passionate SAP developer and tech enthusiast.</h4> <br>
 
 🎯I am well versed in SAP development models and techniques, including:
-   - Classical ABAP and ABAP object-oriented programming.
+   - Classical ABAP and ABAP object-oriented programming
    - RICEFW(reports, interfaces, conversions, enhancements, forms(Smartforms & Adobe forms), and workflows)
    - Validation, Substitutions, and BTE
    - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS View/Analytical)
