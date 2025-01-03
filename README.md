@@ -2,26 +2,26 @@
  <h4 align="left"> I am Fredrick, a passionate SAP developer and tech enthusiast.</h4> <br>
 
 🎯I am well versed in SAP development models and techniques, including:
-   - Classical ABAP and ABAP object-oriented programming
-   - RICEFW(reports, interfaces, conversions, enhancements, forms(Smartforms & Adobe forms), and workflows)
-   - Validation, Substitutions and BTE
-   - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS View/Analytical)
-   - ABAP SQL, CDS views, AMDP procedures, and SQLScript for SAP HANA
-   - Business Object Programming Framework (BOPF)
-   - ABAP RESTful Programming Model (RAP)
-   - SAP Cloud Application Programming Model /CAP - Node.js
-   - SAP Fiori and UI5 development
-   - SAP CRM One order framework, Genil/Bol architecture & WebClient UI
-   - IDoc, BAPI, RFC, REST, and SOAP
-   - SAP Application Interface Framework (SAP AIF)
-   - SAP Integration Suite
+   - Classical ABAP and ABAP object-oriented programming.
+   - RICEFW(reports, interfaces, conversions, enhancements, forms(Smartforms & Adobe forms), and workflows).
+   - Validation, Substitutions, and BTE.
+   - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS View/Analytical).
+   - ABAP SQL, CDS views, AMDP procedures, and SQLScript for SAP HANA.
+   - Business Object Programming Framework (BOPF).
+   - ABAP RESTful Programming Model (RAP).
+   - SAP Cloud Application Programming Model /CAP - Node.js.
+   - SAP Fiori and UI5 development.
+   - SAP CRM One order framework, Genil/Bol architecture & WebClient UI.
+   - IDoc, BAPI, RFC, REST, and SOAP.
+   - SAP Application Interface Framework (SAP AIF).
+   - SAP Integration Suite.
 <br>
     
 🌱 Besides the SAP world, I have basic skills and am continuously learning the following:
-   - HTML5, CSS3, JavaScript, Typescript, jQuery, React, Node.js, PHP, and Python
-   - WordPress development using custom CSS, JavaScript, and PHP
-   - Machine Learning algorithms in MATLAB and Python
-   - Data science tools and techniques in Python and R
+   - HTML5, CSS3, JavaScript, Typescript, jQuery, React, Node.js, PHP, and Python.
+   - WordPress development using custom CSS, JavaScript, and PHP.
+   - Machine Learning algorithms in MATLAB and Python.
+   - Data science tools and techniques in Python and R.
 
 <br>
    <img align="left" alt="sapfiori" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/69cc3a47-bdcf-4e6c-82fa-99c3b0097064"/>
