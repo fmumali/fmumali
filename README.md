@@ -3,8 +3,8 @@
 
 🎯I am well versed in SAP development models and techniques, including:
    - Classical ABAP and ABAP object-oriented programming.
-   - RICEFW(reports, interfaces, conversions, enhancements, forms(Smartforms & Adobe forms), and workflows).
-   - Validation, Substitutions, and BTE.
+   - RICEFW(reports, interfaces, conversions, enhancements, forms(Smartforms & Adobe forms), and workflows)
+   - Validation, Substitutions, and BTE
    - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS View/Analytical)
    - ABAP SQL, CDS views, AMDP procedures, and SQLScript for SAP HANA
    - Business Object Programming Framework (BOPF)
