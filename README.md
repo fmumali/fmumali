@@ -9,8 +9,8 @@
    - ABAP SQL, CDS views, AMDP procedures, and SQLScript for SAP HANA.
    - Business Object Programming Framework (BOPF).
    - ABAP RESTful Programming Model (RAP).
-   - SAP Cloud Application Programming Model /CAP - Node.js.
-   - SAP Fiori and UI5 development.
+   - SAP Cloud Application Programming Model /CAP - Node.js
+   - SAP Fiori and UI5 development
    - SAP CRM One order framework, Genil/Bol architecture & WebClient UI
    - IDoc, BAPI, RFC, REST, and SOAP
    - SAP Application Interface Framework (SAP AIF)
