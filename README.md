@@ -21,7 +21,7 @@
    - HTML5, CSS3, JavaScript, Typescript, jQuery, React, Node.js, PHP, and Python.
    - WordPress development using custom CSS, JavaScript, and PHP.
    - Machine Learning algorithms in MATLAB and Python.
-   - Data science tools and techniques in Python and R.
+   - Data science tools and techniques in Python and R
 
 <br>
    <img align="left" alt="sapfiori" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/69cc3a47-bdcf-4e6c-82fa-99c3b0097064"/>
