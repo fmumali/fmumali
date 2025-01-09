@@ -1,7 +1,7 @@
 <h3 align="left">Hi there👋 </h3> <br>
- <h4 align="left"> I am Fredrick, an SAP developer and tech enthusiast.</h4> <br>
+ <h4 align="left"> I am SAP developer and tech enthusiast.</h4> <br>
 
-🎯I am well versed in SAP development models, frameworks and techniques, including:
+🎯I am well versed in SAP development models, frameworks, and techniques, including:
    - Classical ABAP and ABAP object-oriented programming
    - RICEFW(reports, interfaces, conversions, enhancements, forms(Smartforms & Adobe forms), and workflows)
    - Validation, Substitutions, and BTE
