@@ -10,7 +10,7 @@
    - Business Object Programming Framework (BOPF)
    - ABAP RESTful Programming Model (RAP)
    - SAP Cloud Application Programming Model /CAP - Node.js
-   - SAP Fiori and UI5 development
+   - SAP Fiori and SAP UI5 development
    - SAP CRM One order framework, Genil/Bol architecture & WebClient UI
    - Integration technologies and methods, including IDoc, ALE, BAPI, RFC, REST, and SOAP services
    - SAP Application Interface Framework (SAP AIF)
