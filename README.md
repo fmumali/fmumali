@@ -14,7 +14,7 @@
    - SAP CRM One order framework, Genil/Bol architecture & WebClient UI
    - Integration technologies and methods, including IDoc, ALE, BAPI, RFC, REST, and SOAP services
    - SAP Application Interface Framework (SAP AIF)
-   - SAP Integration Suite/SAP Cloud Platform Integration
+   - SAP Integration Suite /SAP Cloud Platform Integration
 <br>
     
 🌱 Besides the SAP world, I have basic skills and am continuously learning the following:
