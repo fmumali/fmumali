@@ -12,9 +12,9 @@
    - SAP Cloud Application Programming Model /CAP - Node.js
    - SAP Fiori and SAP UI5 development
    - SAP CRM One order framework, Genil/Bol architecture & WebClient UI
-   - Integration technologies and methods, including IDoc, ALE, BAPI, RFC, REST, and SOAP services
+   - Integration technologies and methods, including IDoc, ALE, BAPI, RFC, REST API, EDI, and SOAP services
    - SAP Application Interface Framework (SAP AIF)
-   - SAP Integration Suite /SAP Cloud Platform Integration
+   - SAP Integration Suite 
 <br>
     
 🌱 Besides the SAP world, I have basic skills and am continuously learning the following:
