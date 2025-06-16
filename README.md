@@ -5,7 +5,7 @@
    - Classical ABAP, ABAP object-oriented programming, and ABAP Unit tests
    - WRICEF - workflows, reports, interfaces, conversions, enhancements, and forms
    - Validations, Substitutions, and BTEs in the FI module
-   - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS View/Analytical)
+   - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS views/entities)
    - ABAP SQL, CDS view entities, AMDP procedures, and SQLScript for SAP HANA
    - Business Object Programming Framework (BOPF)
    - ABAP RESTful Programming Model (RAP)
