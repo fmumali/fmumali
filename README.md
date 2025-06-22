@@ -4,7 +4,8 @@
 🎯I am well-versed in SAP development models, frameworks, and techniques, including:
    - Classical ABAP, ABAP object-oriented programming, and ABAP Unit tests
    - WRICEF - workflows, reports, interfaces, conversions, enhancements, and forms
-   - Validations, Substitutions, and BTEs in the FI module
+   - FI validations and substitutions
+   - Enhancements via BAdIs, BTEs, customer exit, and user exit
    - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS views/entities)
    - ABAP SQL, CDS view entities, AMDP procedures, and SQLScript for SAP HANA
    - Business Object Programming Framework (BOPF)
