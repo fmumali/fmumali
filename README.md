@@ -38,7 +38,7 @@
    <img align="left" alt="matlab" width="40px" src="https://github.com/fmumali/fmumali/assets/62213009/ce9fadfd-10f1-4ef0-a1ab-961441e04c00"/>
  <br>
 
- <br>Here are my Github stats
+ <br>Here are my GitHub stats
 
 <table>
 <tr>
