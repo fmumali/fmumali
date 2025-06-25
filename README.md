@@ -3,7 +3,7 @@
 
 🎯I am well-versed in SAP development models, frameworks, and techniques, including:
    - Classical ABAP, ABAP object-oriented programming, and ABAP Unit tests
-   - WRICEF - workflows, reports, interfaces, conversions, enhancements, and forms
+   - WRICEF (workflows, reports, interfaces, conversions, enhancements, and forms)
    - FI validations and substitutions
    - Enhancements via BAdIs, BTEs, customer exit, and user exit
    - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS views/entities)
