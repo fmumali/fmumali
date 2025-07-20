@@ -3,7 +3,7 @@
 
 🎯I am well-versed in SAP development models, frameworks, and techniques, including:
    - Classical ABAP, ABAP object-oriented programming, and ABAP Unit tests
-   - Common design patterns including MVC, factory, singleton, multiton, and object-oriented programming among others
+   - Common design patterns, including MVC, factory, singleton, multiton, and object-oriented programming, among others
    - WRICEF (workflows, reports, interfaces, conversions, enhancements, and forms)
    - FI validations and substitutions
    - Enhancements via BAdIs, BTEs, customer exit, and user exit
