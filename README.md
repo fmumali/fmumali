@@ -7,7 +7,7 @@
    - Adobe Forms - Gateway service/ XML schema-based interface
    - FI validations and substitutions
    - Enhancements via BAdIs, BTEs, customer exit, and user exit
-   - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS views/entities)
+   - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS entities)
    - ABAP SQL, CDS view entities, AMDP procedures, and SQLScript for SAP HANA
    - Business Object Programming Framework (BOPF)
    - ABAP RESTful Programming Model (RAP)
