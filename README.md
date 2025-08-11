@@ -4,7 +4,7 @@
 🎯I am well-versed in SAP development models, frameworks, and techniques, including:
    - Classical ABAP, ABAP object-oriented programming, and ABAP Unit tests
    - Common design patterns, including MVC, factory, singleton, multiton, and object-oriented programming, among others
-   - Adobe Forms - Gateway service/ XML schema-based interface
+   - Adobe Forms - Gateway service/ XML schema-based interface 
    - FI validations and substitutions
    - Enhancements via BAdIs, BTEs, customer exit, and user exit
    - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS entities)
@@ -17,8 +17,8 @@
    - SAP CRM One order framework, Genil/Bol architecture & WebClient UI
    - Integration technologies and methods, including ABAP proxies, IDoc, ALE, BAPI, RFC, REST API, and SOAP Web Services
    - SAP Application Interface Framework (SAP AIF)
-   - Electronic Document Interchange (EDI)
-   - SAP Integration Suite 
+   - Electronic Document Interchange (EDI) basics
+   - SAP Integration Suite basics
 <br>
     
 🌱 Besides the SAP world, I have basic skills and am continuously learning the following:
