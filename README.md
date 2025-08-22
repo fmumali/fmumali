@@ -2,7 +2,7 @@
  <h4 align="left"> I am an SAP developer and tech enthusiast.</h4> <br>
 
 🎯I am well-versed in SAP development models, frameworks, and techniques, including:
-   - Classical ABAP, ABAP object-oriented programming, and ABAP Unit tests
+   - Classical ABAP & ABAP object-oriented programming
    - Common design patterns, including MVC, factory, singleton, multiton, and object-oriented programming, among others
    - Adobe Forms - Gateway service/ XML schema-based interface 
    - FI validations and substitutions
