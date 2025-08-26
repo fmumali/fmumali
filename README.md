@@ -15,10 +15,10 @@
    - SAP Fiori elements.
    - SAP UI5 development.
    - SAP CRM One order framework, Genil/Bol architecture & WebClient UI.
-   - Integration technologies and methods, including ABAP proxies, IDoc, ALE, BAPI, RFC, REST API, and SOAP Web Services
-   - SAP Application Interface Framework (SAP AIF)
-   - Electronic Document Interchange (EDI) basics
-   - SAP Integration Suite basics
+   - Integration technologies and methods, including ABAP proxies, IDoc, ALE, BAPI, RFC, REST API, and SOAP Web Services.
+   - SAP Application Interface Framework (SAP AIF).
+   - Electronic Document Interchange (EDI) basics.
+   - SAP Integration Suite basics.
 <br>
     
 🌱 Besides the SAP world, I have basic skills and am continuously learning the following:
