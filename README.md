@@ -3,7 +3,7 @@
 
 🎯I am well-versed in SAP development models, frameworks, and techniques, including:
    - Classical ABAP & ABAP object-oriented programming
-   - Common design patterns, including MVC, factory, singleton,  and multiton among others
+   - Common design patterns, including MVC, factory, singleton,  and multiton, among others
    - Adobe Forms - Gateway service/ XML schema-based interface
    - FI validations and substitutions
    - Enhancements via BAdIs, BTEs, customer exit, and user exit
