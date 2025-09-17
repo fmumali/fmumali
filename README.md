@@ -2,30 +2,30 @@
  <h4 align="left"> I am an SAP developer :).</h4> <br>
 
 🎯I am well-versed in SAP development models, frameworks, and techniques, including:
-   - Classical ABAP & ABAP object-oriented programming
-   - Common design patterns, including MVC, factory, singleton,  and multiton, among others
-   - Adobe Forms - Gateway service/ XML schema-based interface
-   - FI validations and substitutions
-   - Enhancements via BAdIs, BTEs, customer exit, and user exit
-   - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS entities)
-   - ABAP SQL, CDS view entities, AMDP procedures, and SQLScript for SAP HANA
-   - Business Object Programming Framework (BOPF)
-   - ABAP RESTful Programming Model (RAP)
-   - SAP Cloud Application Programming Model ( using Node.js)
-   - SAP Fiori development
-   - SAP UI5 development
-   - SAP CRM One order framework, Genil/Bol architecture & WebClient UI
-   - Integration technologies and methods, including ABAP proxies, IDoc, ALE, BAPI, RFC, REST API, and SOAP Web Services
-   - SAP Application Interface Framework (SAP AIF)
-   - Electronic Document Interchange (EDI) basics
-   - SAP Integration Suite basics
+   - Classical ABAP & ABAP object-oriented programming.
+   - Common design patterns, including MVC, factory, singleton,  and multiton, among others.
+   - Adobe Forms - Gateway service/ XML schema-based interface.
+   - FI validations and substitutions.
+   - Enhancements via BAdIs, BTEs, customer exit, and user exit.
+   - SAP Gateway and OData services(RFC/BOR, Search Help, Redefinition, and CDS entities).
+   - ABAP SQL, CDS view entities, AMDP procedures, and SQLScript for SAP HANA.
+   - Business Object Programming Framework (BOPF).
+   - ABAP RESTful Programming Model (RAP).
+   - SAP Cloud Application Programming Model ( using Node.js).
+   - SAP Fiori development.
+   - SAP UI5 development.
+   - SAP CRM One order framework, Genil/Bol architecture & WebClient UI.
+   - Integration technologies and methods, including ABAP proxies, IDoc, ALE, BAPI, RFC, REST API, and SOAP Web Services.
+   - SAP Application Interface Framework (SAP AIF).
+   - Electronic Document Interchange (EDI) basics.
+   - SAP Integration Suite basics.
 <br>
     
 🌱 Besides the SAP world, I have basic skills and am continuously learning the following:
-   - HTML5, CSS3, JavaScript, TypeScript, jQuery, React, Node.js, PHP, and Python
-   - WordPress development using custom CSS, JavaScript, and PHP
-   - Machine Learning algorithms in MATLAB and Python
-   - Data science tools and techniques in Python (Jupyter Lab) and R (R Studio)
+   - HTML5, CSS3, JavaScript, TypeScript, jQuery, React, Node.js, PHP, and Python.
+   - WordPress development using custom CSS, JavaScript, and PHP.
+   - Machine Learning algorithms in MATLAB and Python.
+   - Data science tools and techniques in Python (Jupyter Lab) and R (R Studio).
 
 <br>
    <img align="left" alt="sapfiori" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/69cc3a47-bdcf-4e6c-82fa-99c3b0097064"/>
