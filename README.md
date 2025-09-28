@@ -23,9 +23,9 @@
     
 🌱 Besides the SAP world, I have basic skills and am continuously learning the following:
    - HTML5, CSS3, JavaScript, TypeScript, jQuery, React, Node.js, PHP, and Python
-   - WordPress development using custom CSS, JavaScript, and PHP
-   - Machine Learning algorithms in MATLAB and Python
-   - Data science tools and techniques in Python (Jupyter Lab) and R (R Studio)
+   - WordPress development using custom CSS, JavaScript, and PHP.
+   - Machine Learning algorithms in MATLAB and Python.
+   - Data science tools and techniques in Python (Jupyter Lab) and R (R Studio).
 
 <br>
    <img align="left" alt="sapfiori" width="30px" src="https://github.com/fmumali/fmumali/assets/62213009/69cc3a47-bdcf-4e6c-82fa-99c3b0097064"/>
